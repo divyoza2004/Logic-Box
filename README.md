@@ -34,65 +34,17 @@ This program allows students to **practice programming concepts** and **logical 
 - Uses `pass` as a placeholder for future logic
 - Input validation with re-prompting
 
-### 📋 Menu-Driven Interface
+### Menu-Driven Interface
 | Option | Action |
 |--------|--------|
 | `1` | Generate Pattern (Right-angled triangle) |
 | `2` | Analyze a range of numbers |
 | `3` | Exit the program |
 
----
+## Program Flowchart
+<img width="2541" height="3408" alt="logic_box_flowchart (1)" src="https://github.com/user-attachments/assets/87ed27c1-ea2a-44fd-8b04-22c0810237b8" />
 
-## 🚀 How to Run
-
-```bash
-# Clone or download the project
-git clone https://github.com/your-username/logic-box.git
-
-# Navigate to the folder
-cd logic-box
-
-# Run the program
-python main.py
-```
-
----
-
-## 🔄 Program Flow
-
-```
-START
-  │
-  ▼
-Display Welcome Message & Instructions
-  │
-  ▼
-Show Menu Options
-  ├── [1] Pattern Generation
-  │       └── Ask rows → Validate → Generate triangle with nested loops
-  ├── [2] Number Analysis
-  │       └── Ask start & end → range() → Check odd/even → Sum
-  └── [3] Exit
-          └── Thank user → END
-```
-
----
-
-## 📁 Project Structure
-
-```
-logic-box/
-│
-├── main.py              # Main menu-driven program
-├── pattern.py           # Pattern generator module
-├── analyzer.py          # Number analyzer module
-├── README.md            # This file
-└── generate_readme.py   # Dynamic README generator script
-```
-
----
-
-## 🧠 Concepts Used
+## Concepts Used
 
 | Concept | Where Used |
 |--------|------------|
