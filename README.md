@@ -20,7 +20,7 @@ This program allows students to **practice programming concepts** and **logical 
 - Generates patterns based on user input using **nested loops**
 - Uses both `for` and `while` loops
 - Prompts user to enter the number of rows
-- Currently implements: **Right-angled Triangle** ▷
+- Currently implements: **Right-angled Triangle** 
 
 ### 🔷 Number Analyzer
 - Accepts a **start** and **end** number from the user
