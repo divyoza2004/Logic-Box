@@ -44,6 +44,13 @@ This program allows students to **practice programming concepts** and **logical 
 ## Program Flowchart
 <img width="2541" height="3408" alt="logic_box_flowchart (1)" src="https://github.com/user-attachments/assets/87ed27c1-ea2a-44fd-8b04-22c0810237b8" />
 
+## Output of Code
+<img width="730" height="883" alt="image" src="https://github.com/user-attachments/assets/69ff50b8-3aa0-4602-a624-7a9811f1d931" /> 
+<img width="533" height="205" alt="image" src="https://github.com/user-attachments/assets/03745d97-d76e-4818-b6d3-7eccc5924171" />
+
+
+
+
 ## Concepts Used
 
 | Concept | Where Used |
