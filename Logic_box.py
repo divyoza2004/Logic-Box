@@ -4,7 +4,7 @@ while True:
     print("1. Generating your pattern: ")
     print("2. Decoding your number range: ")
     print("3. Exit: ") 
-    w = int(input("Enter your choice: ")) 
+    w = int(input("Enter your choice: "))  
     match w:
         case 1:
             n = int(input("\nPattern height (in rows): "))
